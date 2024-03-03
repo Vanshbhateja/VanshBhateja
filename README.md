@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Bhateja</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
-<img align ="right" alt = "Codeit" width = "400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align ="right" alt = "Codeit" width = "400" src="https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif">
 
 - 🔭 I’m currently working on **340b Drug program in walgreens**
 
