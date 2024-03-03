@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/vansh bhateja](https://www.linkedin.com/in/vansh-bhateja-8027651b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh bhateja" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vansh bhateja]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh bhateja" height="30" width="40" /></a>
 <a href="https://instagram.com/_____vansh___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____vansh___" height="30" width="40" /></a>
 </p>
 
