@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently working on 340B drug program<br>I'm currently learning DSA<br>pronoun: He/His<br>
-<img align ="" alt = "Codeit" width = "400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align ="right" alt = "Codeit" width = "400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 
 ## 🌐 Socials:
