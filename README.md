@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 <img align ="right" alt = "Codeit" width = "400" src="https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif">
 
-- 🔭 I’m currently working on **340b Drug program in walgreens**
+- 🔭 I’m currently working on **US 340b Drug program in walgreens**
 
-- 🌱 I’m currently learning **DSA, ReactJS**
+- 🌱 I’m currently learning **AgenticAI**
 
 - 💬 Ask me about **Java Fullstack**
 
